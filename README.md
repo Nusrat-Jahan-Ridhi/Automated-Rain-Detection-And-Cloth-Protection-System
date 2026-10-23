@@ -43,10 +43,6 @@ This project automates the process of drying clothes outdoors by monitoring rain
 
 Add photos of the completed prototype, sensor arrangement, and motorized rack in the `images/` folder.
 
-Example:
-
-![Project prototype](images/prototype.jpg)
-
 ## Project Report
 
 The complete academic project report is available in the `docs/` folder.
